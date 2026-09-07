@@ -1,5 +1,6 @@
-# AI Website Builder 🚀
+# GenWeb.AI
 
-An AI-powered website builder built with the MERN stack that generates websites from simple prompts.
-Users can edit, preview, and deploy their AI-generated websites with one click.
-Includes authentication, credit-based generation, Stripe payments, and MongoDB integration.
+An AI-powered website builder built using the MERN stack.
+Generate complete websites instantly using simple AI prompts.
+Edit, preview, and deploy generated websites with one click.
+Features authentication, credits, Stripe payments, and MongoDB integration.
